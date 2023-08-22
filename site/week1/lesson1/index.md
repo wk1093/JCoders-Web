@@ -1,4 +1,4 @@
-# Lesson 1.1
+# Lesson 1 - Introduction to Terminals and Repl.it
 
 [Table of Contents](../../index.md)
 
@@ -51,4 +51,4 @@ Python is a programming language. It is a way to tell the computer what to do.
 In the above example we told the computer to `print` the words `Hello World!`. The `print` command is a built in command in python. It tells the computer to print out whatever is inside the parentheses. When we want to represent words/text in python, we put them inside quotes. When we want to represent numbers in python, we don't put them inside quotes.
 In the next lesson we will learn more about python and how to use it.
 
-[Table of Contents](../../index.md) - [Homework](../homework1/)
+[Table of Contents](../../index.md) - [Homework](../homework1/index.md)

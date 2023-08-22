@@ -12,5 +12,4 @@ Class will use [https://repl.it](https://repl.it) for most of the lessons and ho
 Each lesson will normally have homework along with it.
 The homework will be due before the next lesson.
 
-## How to use
-The site should be accessable at [https://wk1093.github.io/JCoders-Web/site/](https://wk1093.github.io/JCoders-Web/site/)
+[Table of Contents](https://wk1093.github.io/JCoders-Web/site/index.md)
